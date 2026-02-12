@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\services\\ilinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\services\\ilinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\dtos\\linkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\dtos\\linkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\dtos\\createlinkrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\dtos\\createlinkrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\entities\\shortlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\entities\\shortlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|c:\\users\\tural\\onedrive\\desktop\\c#\\urlshortererapi\\urlshortererapi\\urlshortererapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A35F295A-4132-4301-B2C5-0D85EB831FAB}|URLShortererApi\\URLShortererApi.csproj|solutionrelative:urlshortererapi\\urlshortererapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Program.cs",
+              "RelativeDocumentMoniker": "URLShortererApi\\Program.cs",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Program.cs",
+              "RelativeToolTip": "URLShortererApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:58:24.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILinkService.cs",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Services\\ILinkService.cs",
+              "RelativeDocumentMoniker": "URLShortererApi\\Services\\ILinkService.cs",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Services\\ILinkService.cs",
+              "RelativeToolTip": "URLShortererApi\\Services\\ILinkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:00:29.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinkService.cs",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Services\\LinkService.cs",
+              "RelativeDocumentMoniker": "URLShortererApi\\Services\\LinkService.cs",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Services\\LinkService.cs",
+              "RelativeToolTip": "URLShortererApi\\Services\\LinkService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:00:18.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShortLink.cs",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Entities\\ShortLink.cs",
+              "RelativeDocumentMoniker": "URLShortererApi\\Entities\\ShortLink.cs",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Entities\\ShortLink.cs",
+              "RelativeToolTip": "URLShortererApi\\Entities\\ShortLink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:00:04.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LinkResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Dtos\\LinkResponse.cs",
+              "RelativeDocumentMoniker": "URLShortererApi\\Dtos\\LinkResponse.cs",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Dtos\\LinkResponse.cs",
+              "RelativeToolTip": "URLShortererApi\\Dtos\\LinkResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:59:42.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateLinkRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Dtos\\CreateLinkRequest.cs",
+              "RelativeDocumentMoniker": "URLShortererApi\\Dtos\\CreateLinkRequest.cs",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Dtos\\CreateLinkRequest.cs",
+              "RelativeToolTip": "URLShortererApi\\Dtos\\CreateLinkRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:59:30.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "URLShortererApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "URLShortererApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:59:15.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedirectController.cs",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Controllers\\RedirectController.cs",
+              "RelativeDocumentMoniker": "URLShortererApi\\Controllers\\RedirectController.cs",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Controllers\\RedirectController.cs",
+              "RelativeToolTip": "URLShortererApi\\Controllers\\RedirectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:58:51.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinksController.cs",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Controllers\\LinksController.cs",
+              "RelativeDocumentMoniker": "URLShortererApi\\Controllers\\LinksController.cs",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\Controllers\\LinksController.cs",
+              "RelativeToolTip": "URLShortererApi\\Controllers\\LinksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:58:40.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "URLShortererApi",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\URLShortererApi.csproj",
+              "RelativeDocumentMoniker": "URLShortererApi\\URLShortererApi.csproj",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\URLShortererApi.csproj",
+              "RelativeToolTip": "URLShortererApi\\URLShortererApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-12T10:34:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\appsettings.json",
+              "RelativeDocumentMoniker": "URLShortererApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Desktop\\C#\\URLShortererApi\\URLShortererApi\\appsettings.json",
+              "RelativeToolTip": "URLShortererApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T10:33:07.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

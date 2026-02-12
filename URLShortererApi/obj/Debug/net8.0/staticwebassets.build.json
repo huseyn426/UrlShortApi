@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V5Oci6gQRv18EHLp2TNRkjIfjdzv4s8/C+GTLhomMmk=",
+  "Source": "URLShortererApi",
+  "BasePath": "_content/URLShortererApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
